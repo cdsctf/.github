@@ -15,7 +15,8 @@ CdsCTF project is divided into several GitHub repositories.
 - [cdsctf/cdsant](https://github.com/cdsctf/cdsant): A temporary frontend implementation of CdsCTF. (recommended)
 - [cdsctf/cdsuno](https://github.com/cdsctf/cdsuno): Independent implementation of CdsCTF frontend without relying on UI libraries.
 
-> [!TIP] Is there any confirmed frontend implementation that CdsCTF will support in the long term?
+> Q: Is there any confirmed frontend implementation that CdsCTF will support in the long term?
+> 
 > Temporarily no. The founders of CdsCTF have always wanted a frontend with elegant design, but due to personal limitations, the self implemented frontend was not very ideal. So the future frontend is a choice between continuing self implementation and using a stable Material you design.
 
 ### Documentation
