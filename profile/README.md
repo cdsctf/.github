@@ -1,17 +1,7 @@
-# CdsCTF
+# The CdsCTF Organization
 
-## Repository Structure
+![Cover](/assets/cover.webp)
 
-CdsCTF project is divided into several GitHub repositories.
+## What is CdsCTF?
 
-### Backend
-
-- [ElaBosak233/cdsctf](https://github.com/ElaBosak233/cdsctf): The core repository.
-
-### Frontend
-
-- [cdsctf/cdsuno](https://github.com/cdsctf/cdsuno): The official implementation frontend of CdsCTF.
-
-### Documentation
-
-- [cdsctf/docs](https://github.com/cdsctf/docs): Official documentation in multiple languages. Recorded detailed feature introductions and deployment guidance.
+The CdsCTF project is an _innovative and high-performance_ CTF platform. Originally developed by [ElaBosak233 (Ela)](https://github.com/ElaBosak233), and continuously maintained by the community.
