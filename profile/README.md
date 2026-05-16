@@ -1,6 +1,6 @@
 # The CdsCTF Organization
 
-![Cover](/assets/cover.webp)
+![Cover](/assets/banner.png)
 
 ## What is CdsCTF?
 
